@@ -1,5 +1,6 @@
 <?php
 /**
+ * Version: 1.0.0
  * Date: 2019-05-05
  * @author Alex Isaenko <info@sh14.ru>
  */
