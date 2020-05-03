@@ -642,7 +642,7 @@ class Element {
 	 *
 	 * @param string|array $data - elements set
 	 *
-	 * @return string
+	 * @return string|array
 	 */
 	public static function get( $data ) {
 		static::init();
